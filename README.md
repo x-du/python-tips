@@ -11,4 +11,10 @@ TODO:
 - map
 - comprehension
 - itertools
+- cache
+- functools
+- Counter
+- heap
+- deque
+
 
